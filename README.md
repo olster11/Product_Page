@@ -1,0 +1,1 @@
+A basic responsive product page. I learned how to impletemt basic flexbox structures.
